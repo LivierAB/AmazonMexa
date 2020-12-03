@@ -1,5 +1,5 @@
 # Amazon Mexa
-*Install MongoDB Compass
+Install MongoDB Compass
 
 
 Create new txt file on main folder
@@ -31,8 +31,8 @@ Reload the website and products and default users should be working.
 
 admin user:
 admin@example.com
-1234
+Pass: 1234
 
 Regular user:
 roberto@example.com
-1234
+Pass: 1234
