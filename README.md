@@ -22,7 +22,9 @@ npm start
 
 
 Once you open the site for the first time, you´ll need to load items and saved users from the backend so go to
+
 http://localhost:5000/api/users/seed
+
 http://localhost:5000/api/products/seed
 
 Reload the website and products and default users should be working.
